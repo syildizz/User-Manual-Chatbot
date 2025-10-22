@@ -51,12 +51,12 @@ def gradio_main():
         type="messages",
         chatbot=gr.Chatbot(
             height=500, 
-            label="LangChain Conversational RAG Chatbot",
+            label="User Manual Chatbot",
             type="messages"
         ),
         textbox=gr.Textbox(placeholder="Enter your query here...", container=False, scale=7),
-        title="LangChain RAG Agent Integrated with Gradio (Conversational)",
-        description="This interface now passes the full conversation history to the agent for context.",
+        title="User Manual Chatbot",
+        description="Ask any technical question you wish",
         theme="soft"
     )
 
