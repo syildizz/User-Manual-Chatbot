@@ -82,7 +82,7 @@ Key outcomes include:
 - **Accuracy**: The RAG pipeline ensures responses are highly relevant to the query, leveraging the structured manual dataset.
 - **Scalability**: The incremental vector database generation supports large datasets and resumable processing.
 - **Usability**: The Gradio interface provides a seamless experience for users to query the chatbot.
-- **Deployment**: The project is live on HuggingFace Spaces at [Placeholder Link](https://huggingface.co/spaces/placeholder).
+- **Deployment**: The project is live on HuggingFace Spaces at [syildizz/User-Manual-Chatbot](https://huggingface.co/spaces/syildizz/User-Manual-Chatbot).
 
 ---
 
@@ -97,8 +97,8 @@ Key outcomes include:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/syildizz/[your-repo-name].git
-   cd [your-repo-name]
+   git clone https://github.com/syildizz/User-Manual-Chatbot
+   cd User-Manual-ChatBot
    ```
 
 2. **Set Up a Virtual Environment**:
@@ -152,7 +152,7 @@ Key outcomes include:
 
 ## Web Interface & Product Guide
 
-The chatbot is deployed on HuggingFace Spaces at [Placeholder Link](https://huggingface.co/spaces/placeholder). 
+The chatbot is deployed on HuggingFace Spaces at [syildizz/User-Manual-Chatbot](https://huggingface.co/spaces/syildizz/User-Manual-Chatbot). 
 The Gradio-based interface allows users to:
 
 - Enter technical questions about electronic devices.
@@ -160,14 +160,14 @@ The Gradio-based interface allows users to:
 
 ### Usage Instructions
 
-1. Visit the HuggingFace Spaces link: [Placeholder Link](https://huggingface.co/spaces/placeholder).
+1. Visit the HuggingFace Spaces link: [syildizz/User-Manual-Chatbot](https://huggingface.co/spaces/syildizz/User-Manual-Chatbot).
 2. Enter a question in the text input field (e.g., "How do I reset my [device name]?").
 3. The chatbot will use relevant manual sections to generate a response.
 
 ### Screenshots
 
-[Placeholder: Add screenshots or a short video demonstrating the interface]
+![chatbot sample](./readme_files/chatbot_sample.png)
 
 ---
 
-**Live Demo**: [Placeholder HuggingFace Spaces Link](https://huggingface.co/spaces/placeholder)
+**Live Demo**: [syildizz/User-Manual-Chatbot](https://huggingface.co/spaces/syildizz/User-Manual-Chatbot).
